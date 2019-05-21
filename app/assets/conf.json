@@ -1,0 +1,20 @@
+{
+  "background_color": "#1e6dd8",
+  "textColor": "white",
+  "king": {
+    "label": "King of the quizz",
+    "img": "~/assets/asset_conf/throne.png"
+  },
+  "master": {
+    "label": "Master of quizz",
+    "img": "~/assets/asset_conf/motherdragon.jpg"
+  },
+  "medium": {
+    "label": "Knight of the quizz",
+    "img": "~/assets/asset_conf/jon.jpg"
+  },
+  "noob": {
+    "label": "Quizz noob",
+    "img": "~/assets/asset_conf/jof.jpg"
+  }
+}
