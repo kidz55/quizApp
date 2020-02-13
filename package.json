@@ -43,7 +43,7 @@
     "sass-loader": "^7.1.0",
     "terser-webpack-plugin": "^1.1.0",
     "webpack": "^4.16.4",
-    "webpack-bundle-analyzer": "~2.13.1",
+    "webpack-bundle-analyzer": "~3.6.0",
     "webpack-cli": "^3.1.0"
   },
   "gitHead": "aaf1b81dc02ec5757ffff8131651798f179712fc",
