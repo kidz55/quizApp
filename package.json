@@ -30,7 +30,7 @@
     "babel-loader": "~8.0.0",
     "nativescript-dev-webpack": "~0.21.0",
     "nativescript-vue-template-compiler": "~2.2.0",
-    "node-sass": "~4.11.0",
+    "node-sass": "~4.14.1",
     "vue-loader": "~15.4.0",
     "babel-traverse": "6.26.0",
     "babel-types": "6.26.0",
